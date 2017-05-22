@@ -1,0 +1,12 @@
+1.胡汉三的博客网址：http://blog.csdn.net/hzw2312
+2.easyUI中文网：http://www.jeasyui.net/demo/380.html
+3.hibernate官网：http://hibernate.org/
+4.bootstrap中文网：http://www.bootcss.com/
+5.JavaScript中文网：https://www.javascriptcn.com/
+6.csdn网：http://www.csdn.net/
+7.脚本之家：http://www.jb51.net/article/66038.htm
+8.博客园：http://www.cnblogs.com/langtianya/p/4208135.html
+9.jquery的下载路径：<script src="http://lib.sinaapp.com/js/jquery/1.7.2/jquery.min.js"></script>
+10.jQuery教程路径：http://www.w3school.com.cn/jquery/jquery_syntax.asp
+11.微信公众平台开发者文档：http://mp.weixin.qq.com/wiki/8/f9a0b8382e0b77d87b3bcc1ce6fbc104.html
+12.开源项目大全：http://www.oschina.net/project
