@@ -10,3 +10,4 @@
 10.jQuery教程路径：http://www.w3school.com.cn/jquery/jquery_syntax.asp
 11.微信公众平台开发者文档：http://mp.weixin.qq.com/wiki/8/f9a0b8382e0b77d87b3bcc1ce6fbc104.html
 12.开源项目大全：http://www.oschina.net/project
+13.Git项目网址：https://github.com/liwy1995/learngit/blob/master/address.txt
